@@ -155,7 +155,7 @@ int main()
             if (MouseLocked)
             {
 
-                // Stores the coordinates of the cursor
+                // Stores the coordinates of the cursorsadwdawdaw
                 double mouseX;
                 double mouseY;
                 // Fetches the coordinates of the cursor
